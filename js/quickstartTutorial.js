@@ -41,5 +41,6 @@ function onMapClick(e) {
         .setContent("You clicked the map at " + e.latlng.toString())
         .openOn(mymap);
 }
+
 //method that specfies the map is on when it is clicked.
 mymap.on('click', onMapClick);
