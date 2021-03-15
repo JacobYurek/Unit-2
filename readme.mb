@@ -1,0 +1,13 @@
+### **Title:** *U.S. City Population Change during 2010 decade*
+
+### **Author:** Jacob Yurek
+
+### **Dependencies:**
+* [JQuery 3.6.0](https://jquery.com/)
+* [Leaflet 1.6](https://leafletjs.com/reference-1.6.0.html)
+
+### **Code Version:**
+Last Updated: 8 March, 2021
+
+### **Description:**
+This interactive proportional symbol map, built using Leaflet, demonstrates the change in the population of 50 most populous U.S. city from 2010 to 2020.
